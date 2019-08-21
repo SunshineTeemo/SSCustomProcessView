@@ -1,5 +1,5 @@
 # SSCustomProcessView
 
-Show you how to custom process view!
+Show you how to use the custom process view!
 
-There is a blog from me about this topic，you can read it https://www.jianshu.com/p/356630d9b298.
+There is my blog  about this topic，you can read it https://www.jianshu.com/p/356630d9b298.
